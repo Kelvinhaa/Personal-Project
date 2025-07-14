@@ -1,12 +1,28 @@
-# React + Vite
+# 🧠 MindMappr
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+MindMappr is a web-based productivity app that helps students discover effective **study techniques** based on their **personal learning preferences**. Whether you're a visual learner, an auditory thinker, or prefer kinesthetic strategies, MindMappr offers method suggestions tailored to you.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Features
 
-## Expanding the ESLint configuration
+- 🔍 **Custom Study Suggestions** based on user input
+- 🧑‍🎓 Tailors techniques to your **learning style** (visual, auditory, reading/writing, kinesthetic)
+- 🛠️ Fully built with **HTML**, **CSS**, and **JavaScript**
+- 💡 Clean and responsive user interface
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🖥️ Tech Stack
+
+- **Frontend**: HTML, CSS, JavaScript (vanilla)
+- **Design**: Responsive layout with mobile-friendly support
+- **Hosting**: (Optional: GitHub Pages or Netlify)
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repo:
+   ```bash
+   git clone git@github.com:yourusername/MindMappr.git
