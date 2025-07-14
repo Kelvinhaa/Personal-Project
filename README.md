@@ -20,9 +20,3 @@ MindMappr is a web-based productivity app that helps students discover effective
 - **Hosting**: (Optional: GitHub Pages or Netlify)
 
 ---
-
-## 🚀 Getting Started
-
-1. Clone the repo:
-   ```bash
-   git clone git@github.com:yourusername/MindMappr.git
